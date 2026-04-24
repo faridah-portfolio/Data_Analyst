@@ -7,3 +7,5 @@ How do sales trends evolve over time?
 Which product categories contribute the most to total sales?
 How does performance vary across different product categories?
 How do filters such as product, region, and salesperson influence overall performance?
+
+![image alt](https://github.com/faridah-portfolio/Data_Analyst/blob/3526126e9e8aab275f0b398fa8901efd9f728f47/farida%C2%AD%C2%AD%C2%AD%C2%AD_HP_Nigeria_Sales_Data%20-%20Excel%2012_02_2026%2010_02_26%20pm.png)
