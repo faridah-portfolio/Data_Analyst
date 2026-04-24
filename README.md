@@ -1,2 +1,2 @@
-# Data_Analyst
-This repo contains sales analysis project 
+# FARIDA ABUBAKAR DATA ANALYTICS PORTFOLIO
+## PROJECT 1 :SALES PERFORMANCE OVERVIEW DASHBOARD 
