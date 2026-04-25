@@ -14,7 +14,7 @@ How do filters such as product, region, and salesperson influence overall perfor
 
 ![image alt](https://github.com/faridah-portfolio/Data_Analyst/blob/3526126e9e8aab275f0b398fa8901efd9f728f47/farida%C2%AD%C2%AD%C2%AD%C2%AD_HP_Nigeria_Sales_Data%20-%20Excel%2012_02_2026%2010_02_26%20pm.png)
 
-#### Skills & Tools Used
+### Skills & Tools Used
 Microsoft Excel (Advanced)
 
 Pivot Tables & Pivot Charts
@@ -27,13 +27,13 @@ Dashboard Design
 
 Analytical Thinking
 
-#### business Insights
+### Business Insights
 Sales show a steady decline over time, suggesting possible seasonality or changing demand patterns.
 A significant portion of total revenue is driven by a few key product categories.
 Performance varies across product segments, indicating opportunities for optimization and strategic focus.
 Interactive filtering reveals how different dimensions impact overall sales outcomes, enabling deeper analysis.
 
-#### Business Recommendations
+### Business Recommendations
 
 Based on the analysis of sales performance overveiwing dashboard, the following recommendations are proposed to improve revenue growth and operational efficiency:
 
