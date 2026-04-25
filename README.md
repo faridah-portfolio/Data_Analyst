@@ -12,4 +12,4 @@ This project involves the development of an interactive Excel dashboard designed
 • How does profit vary by product and region when filtered by salesperson?  
 
 
-![Dashboard Screenshot]()
+![Dashboard Screenshot](https://github.com/faridah-portfolio/Data_Analyst/blob/bc9bdee0fbe5212afca9163845f7d2131418f202/farida%C2%AD%C2%AD%C2%AD%C2%AD_HP_Nigeria_Sales_Data%20-%20Excel%2025_04_2026%2012_03_33%20pm.png)
