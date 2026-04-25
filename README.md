@@ -16,8 +16,37 @@ How do filters such as product, region, and salesperson influence overall perfor
 
 #### Skills & Tools Used
 Microsoft Excel (Advanced)
+
 Pivot Tables & Pivot Charts
+
 Data Cleaning and Transformation
+
 Data Visualization
+
 Dashboard Design
+
 Analytical Thinking
+
+#### business Insights
+Sales show a steady decline over time, suggesting possible seasonality or changing demand patterns.
+A significant portion of total revenue is driven by a few key product categories.
+Performance varies across product segments, indicating opportunities for optimization and strategic focus.
+Interactive filtering reveals how different dimensions impact overall sales outcomes, enabling deeper analysis.
+
+#### Business Recommendations
+
+Based on the analysis of sales performance overveiwing dashboard, the following recommendations are proposed to improve revenue growth and operational efficiency:
+
+##### Address declining sales trend:
+Investigate the cause of the consistent drop in monthly sales and implement targeted marketing campaigns or promotional strategies during low-performing periods.
+##### Focus on high-performing product categories:
+Allocate more resources to the product categories that generate the highest revenue, as they contribute significantly to overall sales performance.
+##### Improve underperforming product segments:
+Identify low-performing products and explore strategies such as repositioning, discounting, or discontinuation to optimize the product portfolio.
+##### Strengthen regional performance strategies:
+Analyze regional differences in performance and tailor sales strategies to maximize opportunities in both high- and low-performing regions.
+##### Leverage top-performing salespersons:
+Identify and replicate the strategies used by top-performing salespersons to improve overall team performance and increase profitability.
+##### Enhance data-driven decision-making:
+Continuously use dashboards and performance tracking tools to monitor trends and support timely business decisions.
+
