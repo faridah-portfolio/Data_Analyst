@@ -38,6 +38,24 @@ The number of units sold compared to total revenue suggests either high-value pr
 The business is performing well overall, but there are opportunities to improve data accuracy, balance regional performance, and reduce reliance on a few products and top salespeople.
 
 ### Business Suggestions
+The company is performing strongly overall, but growth can be improved
+
+#### Strengthen Weak Regions
+Identify underperforming regions and investigate causes (pricing, awareness, distribution).
+
+Launch targeted promotions or regional campaigns to increase market penetration.
+
+ #### Improve Sales Team Balance
+Since a few salespeople drive most revenue, introduce:
+
+performance training for lower performers
+
+mentorship from top performers
+
+incentive programs to balance output
+
+
+
 
 
 
