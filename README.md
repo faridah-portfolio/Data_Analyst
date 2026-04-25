@@ -28,4 +28,10 @@ Dashboard Design
 Analytical Thinking
 
 ## BUSINESS INSIGHT
+Total sales and profit values are almost the same, which suggests the profit data may need to be checked for accuracy.
+Sales are mostly driven by a few product categories, meaning the business relies heavily on its top products.
+Some regions perform much better than others, showing that sales are not evenly distributed.
+Sales decrease in the later period, which could be due to seasonal changes or reduced demand.
+A small number of salespeople are responsible for most of the sales, showing an imbalance in performance.
+The number of units sold compared to total revenue suggests either high-value products or possible data inconsistencies.
 
