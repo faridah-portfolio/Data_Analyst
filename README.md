@@ -12,7 +12,7 @@ This project involves the development of an interactive Excel dashboard designed
 • How does profit vary by product and region when filtered by salesperson?  
 
 
-![image alt](https://github.com/faridah-portfolio/Data_Analyst/blob/bc9bdee0fbe5212afca9163845f7d2131418f202/farida%C2%AD%C2%AD%C2%AD%C2%AD_HP_Nigeria_Sales_Data%20-%20Excel%2025_04_2026%2012_03_33%20pm.png)
+![image](https://github.com/faridah-portfolio/Data_Analyst/blob/bc9bdee0fbe5212afca9163845f7d2131418f202/farida%C2%AD%C2%AD%C2%AD%C2%AD_HP_Nigeria_Sales_Data%20-%20Excel%2025_04_2026%2012_03_33%20pm.png)
 
 ## Skills & Tools Used
 Microsoft Excel 
@@ -45,7 +45,7 @@ Identify underperforming regions and investigate causes (pricing, awareness, dis
 
 Launch targeted promotions or regional campaigns to increase market penetration.
 
- #### Improve Sales Team Balance
+#### Improve Sales Team Balance
 Since a few salespeople drive most revenue, introduce:
 
 performance training for lower performers
@@ -54,7 +54,7 @@ mentorship from top performers
 
 incentive programs to balance output
 
-![image alt](https://github.com/faridah-portfolio/Data_Analyst/blob/bc9bdee0fbe5212afca9163845f7d2131418f202/farida%C2%AD%C2%AD%C2%AD%C2%AD_HP_Nigeria_Sales_Data%20-%20Excel%2025_04_2026%2012_03_33%20pm.png)
+
 
 
 
